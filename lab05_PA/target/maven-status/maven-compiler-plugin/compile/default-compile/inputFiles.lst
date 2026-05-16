@@ -1,0 +1,10 @@
+D:\Facultate\Proiecte Java\lab05_PA\src\main\java\command\Command.java
+D:\Facultate\Proiecte Java\lab05_PA\src\main\java\command\ListCommand.java
+D:\Facultate\Proiecte Java\lab05_PA\src\main\java\command\ReportCommand.java
+D:\Facultate\Proiecte Java\lab05_PA\src\main\java\command\SaveCommand.java
+D:\Facultate\Proiecte Java\lab05_PA\src\main\java\command\ViewCommand.java
+D:\Facultate\Proiecte Java\lab05_PA\src\main\java\exception\CatalogException.java
+D:\Facultate\Proiecte Java\lab05_PA\src\main\java\exception\InvalidResourceException.java
+D:\Facultate\Proiecte Java\lab05_PA\src\main\java\main\Main.java
+D:\Facultate\Proiecte Java\lab05_PA\src\main\java\model\Resource.java
+D:\Facultate\Proiecte Java\lab05_PA\src\main\java\repository\Catalog.java
